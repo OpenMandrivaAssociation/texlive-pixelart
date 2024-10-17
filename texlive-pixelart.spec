@@ -3,7 +3,7 @@ Version:	57508
 Release:	2
 Summary:	A package to draw pixel-art pictures
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pixelart
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/pixelart
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pixelart.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pixelart.doc.r%{version}.tar.xz
